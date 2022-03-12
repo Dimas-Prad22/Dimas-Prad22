@@ -2,6 +2,7 @@
 <h3 align="center">I love to explore new technologies and advantage them to solve problems in real-life.</h3><br>
 
 <h3 align="left">Talking about me</h3>
+
 - 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **anything, i'm happy to help :)**
