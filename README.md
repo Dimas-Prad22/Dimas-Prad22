@@ -29,4 +29,4 @@
 <a href="https://t.me/dimaspraditya" target="blank"><img align="center" src="https://camo.githubusercontent.com/92ffb645527aa95375f953d6d19b0da0895f2a44c1dd87f69e787b9047f6344d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f74656c656772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="Dimas's Telegram" height="30" width="40" /></a>
 </p>
 
-<p align="center" dir="auto"> <img src="https://komarev.com/ghpvc/?username=dimas-prad22&label=Profile%20views&color=0e75b6&style=flat" alt="dimas-prad22" /></p>
+<p align="right" dir="auto"> <img src="https://komarev.com/ghpvc/?username=dimas-prad22&label=Profile%20views&color=0e75b6&style=flat" alt="dimas-prad22" /></p>
